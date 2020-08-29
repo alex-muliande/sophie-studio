@@ -20,7 +20,7 @@ h1{
     padding-top: 60px;
 }
 .a img:last-child{
-    padding: 170px;
+    padding: 170px;+
 }
 h2{
 text-align: center;
@@ -51,6 +51,7 @@ text-align: center;
     background-image: url('../img/c_image.jpg');
     background-size: cover;
     height:500px;
+    width: 100%;
 }
 #transparent {
     background-color: transparent;
